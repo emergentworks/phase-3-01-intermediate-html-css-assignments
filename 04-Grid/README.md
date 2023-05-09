@@ -1,6 +1,5 @@
 # [Grid](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css#grid)
 
-- [ ] Complete repo/project setup sample issue 
 - [ ] Introduction to Grid
 - [ ] Creating a Grid
 - [ ] Positioning Grid Elements
