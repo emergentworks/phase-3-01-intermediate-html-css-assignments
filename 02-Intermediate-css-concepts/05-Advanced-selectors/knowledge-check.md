@@ -6,7 +6,7 @@
 
 ## Do pseudo-classes exist somewhere in HTML? Do pseudo-elements?
 
-## Name two ways you could select every second child of an element, starting with the first
+## Name two ways you could select every second child of an element, starting with the first child
 
 ## What is the difference between div:first-child and div:last-child? What will each select?
 
